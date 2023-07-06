@@ -14,6 +14,7 @@ public class LombokDemoApplication {
 		hObj.setHHeight(10);
 		
 		System.out.println(hObj.getHHeight());
+		System.out.println("Greetings");
 	}
 
 }
